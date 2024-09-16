@@ -1,0 +1,8 @@
+{
+    "string":"montassar",
+    "number":21,
+    "object":{"Fra":"Paris", "Ger":"Berlin"},
+    "array":["HTML","CSS","JS"],
+    "boolean":true,
+    "null":null
+}
